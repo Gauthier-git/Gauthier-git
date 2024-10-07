@@ -1,7 +1,7 @@
 Hi, I'm Gauthier Dehar! I’m a software engineer passionate about technology and learning opportunities.
 
 ## About Me
-With a background in military service and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning from military to civilian life.
+I have a Bachelor's Degree in Computer Science and always been fascinated by technology. I am a teamworker that loves to share about the IT world!
 
 ## Technical Skills 🛠️
 - **Languages:** C#, TypeScript, 
